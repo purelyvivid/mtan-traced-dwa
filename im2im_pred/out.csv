@@ -1,0 +1,17 @@
+filename,SEMANTIC_MEAN_IOU_TEST,SEMANTIC_PIX_ACC_TEST,DEPTH_ABS_ERR_TEST,DEPTH_REL_ERR_TEST,NORMAL_MEAN_TEST,NORMAL_MED_TEST,NORMAL_(<11.25)_TEST,NORMAL_(<22.5)_TEST,NORMAL_(<30)_TEST
+./log/nyuv2-mtan-dwa.txt,0.1957,0.5649,0.5858,0.2455,31.568,27.8014,0.1801,0.406,0.5396
+./log/nyuv2-split-dwa.txt,0.171,0.5349,0.5985,0.2565,32.6317,27.4887,0.2027,0.4206,0.5407
+./log/nyuv2-dense-dwa.txt,0.1844,0.5751,0.5792,0.2511,30.5501,24.9523,0.2341,0.4606,0.5815
+./log/nyuv2-cross-dwa.txt,0.165,0.5403,0.6085,0.2653,32.5577,27.4289,0.2055,0.421,0.5418
+./log/nyuv2-dense.txt,0.1736,0.5506,0.6821,0.2872,31.364,25.8,0.2186,0.4472,0.5683
+./log/nyuv2-cross.txt,0.1493,0.5095,0.6462,0.2747,33.7178,28.7081,0.1952,0.4039,0.5225
+./log/nyuv2-mtan.txt,0.1955,0.5671,0.6091,0.2605,31.5351,27.673,0.1851,0.4099,0.5412
+./log/nyuv2-split.txt,0.1817,0.5609,0.5814,0.2469,31.6984,26.4686,0.211,0.4337,0.5574
+./log/nyuv2-stan-semantic.txt,0.1737,0.5591,,,,,,,
+./log/nyuv2-single-semantic.txt,0.1647,0.5503,,,,,,,
+./log/nyuv2-stan-depth.txt,,,0.6416,0.2713,,,,,
+./log/nyuv2-single-depth.txt,,,0.6604,0.2833,,,,,
+./log/nyuv2-stan-normal.txt,,,,,29.59,23.2798,0.2542,0.4911,0.6084
+./log/nyuv2-single-normal.txt,,,,,30.3489,24.1986,0.2406,0.4741,0.5931
+./log/nyuv2-mtan-tdwa-r0.1.txt,0.1881,0.5543,0.6011,0.2521,31.6095,27.8407,0.1772,0.4048,0.5405
+./log/nyuv2-mtan-tdwa-r0.2.txt,0.197,0.5699,0.61,0.2647,31.7666,27.6801,0.1828,0.4104,0.5409
